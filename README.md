@@ -60,8 +60,8 @@
 
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 ![MLX Badge](https://img.shields.io/badge/MLX-000000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHAAAABwCAYAAAD0f5bSAAAACXBIWXMAAAsTAAALEwEAmpwYAAADnklEQVR4nO3dz2sTQRzA8XNHaBNgQQhRQIxDCEgikJERFvMDo9S8h4S6eCljKQo0zB6vQeM8aM9C4FPdyWx2Z2d2V2Z33Qdr2ZQz7sPO7Z3bnf4MCBAgQIECAAAECBAj0FbgFo42rdyYX3R7N1QpwBrX2y84uzGbC+iXBba+7ngFXQF1BSPtsguO1o+NAvcpvuD0Hn4C8tgKzAIf6Xnw6yD2qN7dyyXmgW3ygb3Vvs1FdZbnHLe7xP+nhr3ZxwKyTxP4mAdu0AzyT6THN0l0vQDZ5oPgToV1rrXke7WcLvWHfeFZaqNsmVrwvuAXnAE9oP2QbwPc+Bq6gnnEO8T8E/vdtj+5UJnZx4KpYfF1X0kgePcJpQ4DZ9X34XWdeQH+OIB+yfudBVbR83jN/hWPeQJ2uPso9M7cJL7gT6um3gpR3VYms3QX1ZV+iMYbzP3hdVtVgNpo1yN4wDFvgfYx9KNYW+UzTYnD1rpbMWm+zQb0hrnIh8H8zW/HmhpvFJ8h2ne9DkFZ7QfdnA+jOqOM4ZCStqg53R+8Ba2I+krsPyffzhP9d16KzuuFovE3re/QmWzQbqg7uPRdD4GwbHahG7XeG4fMT6rbMMkF5uKfHsD1Haf5fEZbINP7Fbhs98ivE64q7U5gfnyFTeCd7Y9/2EdbmN1irTuEe8i9fSf2+NmyArpC2rAVdcVv4s7vU9hufCfU4ghu2kzW3McH2PX3yLWVDN73ih/Um6yHXm3jrU/C4+cBWl4Tv0hvMjTt2D6zX1bxY+rwufgcK3g+LcfpFdEdfhNf9DwU5/Bo/3H5/0fT9Aq3kOf93E/eS2+Rvy8Ay0jBY0XrtBq9C8eY7O8OkCAAAECBAgQIECAAAECBO4o/AAz8uHeMFMez2AAAAAASUVORK5CYII=&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) 
 [![ETL](https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff)](#)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)
 [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)
