@@ -1,9 +1,9 @@
-# 🌐 Socials:
+# Socials:
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/hassan.4lmosa) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/hassan.bytes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hsn@hassan.works) 
 
 
-# 💻 Tech & Tinker Stack:
+# Tech & Tinker Stack:
 
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
@@ -127,14 +127,6 @@
 ![MicroPython Badge](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=plastic)
 -->
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=gammaploid&icon=0&color=9)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/hassanalmosa) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
