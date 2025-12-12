@@ -126,10 +126,6 @@
 ![YAML Badge](https://img.shields.io/badge/YAML-CB171E?logo=yaml&logoColor=fff&style=flat)
 ![MicroPython Badge](https://img.shields.io/badge/MicroPython-2B2728?logo=micropython&logoColor=fff&style=plastic)
 -->
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gammaploid&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
